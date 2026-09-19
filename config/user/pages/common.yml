@@ -1,0 +1,48 @@
+title: 常用网站
+subtitle: zxsos 的服务与收藏
+template: page
+categories:
+  - name: 笔记 · 导航
+    icon: fas fa-compass
+    sites:
+      - {name: Inkstone 笔记, url: https://note.zxsos-go.ccwu.cc, description: Markdown 笔记本}
+      - {name: 本站导航 menav, url: https://nav.zxsos.ccwu.cc, description: 当前这个导航页}
+  - name: 账号 · 邮件 · 传输
+    icon: fas fa-key
+    sites:
+      - {name: Vaultwarden, url: https://bitwarden.zxsos.ccwu.cc, description: 密码管理器}
+      - {name: vMail, url: https://vmail.zxsos.ccwu.cc, description: 临时邮箱}
+      - {name: Send, url: https://send.zxsos.ccwu.cc, description: 文件传输}
+      - {name: rSend, url: https://rsend.zxsos.ccwu.cc, description: 文件传输(备用)}
+  - name: Cloudflare 运维
+    icon: fas fa-gauge-high
+    sites:
+      - {name: CloudflareOps, url: https://cfops.zxsos.ccwu.cc, description: CF 用量与费用面板}
+      - {name: Server Monitor, url: https://monitor.zxsos.ccwu.cc, description: 服务器监控}
+      - {name: Usage Panel, url: https://usage.zxsos.ccwu.cc, description: 用量面板}
+      - {name: NodeWarden, url: https://nodewarden.zxsos.workers.dev, description: 节点管理}
+      - {name: wloc, url: https://wloc.zxsos.workers.dev, description: 位置/IP 工具}
+  - name: 影音
+    icon: fas fa-play
+    sites:
+      - {name: LibreTV, url: https://libretv-824.pages.dev, description: 影视聚合}
+      - {name: LunaTV, url: https://tv.zxsos-go.ccwu.cc, description: 影视}
+      - {name: MoonTV+, url: https://tvplus.zxsos-go.ccwu.cc, description: 影视(Meilisearch)}
+  - name: 文件 · 图床 · 链接
+    icon: fas fa-folder-open
+    sites:
+      - {name: OpenList, url: https://openlist.zxsos.ccwu.cc, description: 网盘聚合}
+      - {name: SubLink, url: https://sub.zxsos-go.ccwu.cc, description: 订阅转换}
+      - {name: 图床 zxsos.pages, url: https://zxsos.pages.dev, description: Pages 站点}
+  - name: 游戏 · 其它
+    icon: fas fa-gamepad
+    sites:
+      - {name: icy-base-2048, url: https://icy-base-2048.zxsos.workers.dev, description: 小游戏}
+      - {name: pass-the-torch, url: https://rocom-pass-the-torch.pages.dev, description: Pages 项目}
+      - {name: iris, url: https://iris.zxsos.workers.dev, description: worker}
+  - name: 作者示例 / 常用
+    icon: fas fa-star
+    sites:
+      - {name: MeNav 演示, url: https://rbetree.github.io/menav, description: menav 官方示例}
+      - {name: Linux.do, url: https://linux.do/, description: 社区}
+      - {name: GitHub, url: https://github.com/zxsos, description: 我的 GitHub}
