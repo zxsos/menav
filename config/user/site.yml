@@ -2,11 +2,11 @@
 # 建议复制到 config/user/site.yml 并按需调整；用户配置采用“完全替换”策略，将覆盖默认配置。
 
 # 网站基本信息
-title: Zx 导航
+title: zxsos
 description: Personal Navigation Station
 author: zxsos
 favicon: menav.svg
-logo_text: Zx 导航
+logo_text: zxsos
 
 icons:
   # 站点卡片图标模式：
@@ -63,8 +63,8 @@ fonts:
 profile:
   # 注意：首页（导航第一项）标题区优先使用 profile.title/profile.subtitle
   # 因此建议把首页希望展示的文案写在这里，避免“改了 pages/<首页id>.yml 但首页不生效”的误会
-  title: Hello, Zx
-  subtitle: 我的个人导航
+  title: zxsos
+  subtitle: 我的导航
 
 # RSS（Phase 2）：用于 articles 页面文章聚合
 # 说明：
